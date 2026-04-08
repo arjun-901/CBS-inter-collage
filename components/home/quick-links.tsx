@@ -5,7 +5,7 @@ import Image from "next/image"
 import { Sparkles, Calendar, ArrowRight, CreditCard, Download } from "lucide-react"
 
 const noticeItems = [
-  { icon: Sparkles, label: "Latest Notices", href: "/notices", highlight: true },
+  // { icon: Sparkles, label: "Latest Notices", href: "/notices", highlight: true },
   // { icon: Calendar, label: "Academic Calendar", href: "/calendar" },
   { icon: ArrowRight, label: "Admission Portal", href: "/admissions" },
   // { icon: CreditCard, label: "Fee Structure", href: "/fees" },
