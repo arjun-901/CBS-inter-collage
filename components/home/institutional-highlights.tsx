@@ -88,7 +88,7 @@ export function InstitutionalHighlights() {
             </p>
             
             <Link 
-              href="/facilities"
+              href="/academics"
               className="inline-flex items-center gap-2 text-accent font-medium text-sm md:text-base hover:gap-3 transition-all duration-300"
             >
               Learn more

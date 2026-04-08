@@ -9,7 +9,7 @@ const noticeItems = [
   // { icon: Calendar, label: "Academic Calendar", href: "/calendar" },
   { icon: ArrowRight, label: "Admission Portal", href: "/admissions" },
   // { icon: CreditCard, label: "Fee Structure", href: "/fees" },
-  { icon: Download, label: "Downloads", href: "/downloads" },
+  // { icon: Download, label: "Downloads", href: "/downloads" },
 ]
 
 const quickLinkCards = [
