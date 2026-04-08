@@ -7,7 +7,7 @@ const sidebarLinks = [
   // { icon: Calendar, label: "Academic Calendar", href: "/calendar" },
   { icon: ArrowRight, label: "Admission Portal", href: "/admissions", highlight: true },
   // { icon: CreditCard, label: "Fee Structure", href: "/fees" },
-  { icon: Download, label: "Downloads", href: "/downloads" },
+  // { icon: Download, label: "Downloads", href: "/downloads" },
 ]
 
 export function LegacySection() {
