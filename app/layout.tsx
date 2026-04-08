@@ -14,9 +14,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'CBS Inter College | Excellence in Education Since 1952',
+  title: 'CBS Inter College',
   description: 'CBS Inter College - Building Future Leaders through a legacy of academic rigor, character building, and innovative learning environments.',
   keywords: 'CBS Inter College, school, education, academics, admissions',
+  icons: {
+    icon: '/images/coll-logo.png',
+  },
 }
 
 export default function RootLayout({
