@@ -40,7 +40,7 @@ export function Footer() {
           </div>
 
           {/* Quick Links */}
-          <div>
+          {/* <div>
             <h4 className="text-xs uppercase tracking-wider text-white/50 mb-3 md:mb-4">Explore</h4>
             <ul className="space-y-2">
               {quickLinks.map((link) => (
@@ -54,7 +54,7 @@ export function Footer() {
                 </li>
               ))}
             </ul>
-          </div>
+          </div> */}
 
           {/* Contact */}
           <div>
